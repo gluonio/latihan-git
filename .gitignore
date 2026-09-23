@@ -1,0 +1,8 @@
+# Abaikan berkas rahasia
+rahasia.txt
+
+# Abaikan semua berkas berkestensi .log
+*.log
+
+# Abaikan seluruh folder node_modules
+node_modules/
