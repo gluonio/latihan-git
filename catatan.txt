@@ -1,1 +1,2 @@
 Halo, ini latihan pertama saya belajar Git!
+Baris kedua: Saya sekarang sedang belajar tutorial kedua Git.
